@@ -42,6 +42,6 @@ Ensure that you have the necessary dependencies installed in your environment. T
 Happy generating musical sequences with Markov Chains!
 
 
-## Screenshots
+## OutPut
 ![SampleAudio](https://github.com/nikhil21268/Music-Generation-using-Markov-Chains-/blob/main/Songs/mergedData_Finite_Order_MarkovChain.mp3)
 
